@@ -20,5 +20,5 @@ function calculatePerimeterOfTriangle() {
   const perimeterOfTriangle = baseOfTriangle + firstSide + secondSide
 
   // output
-  document.getElementById('perimeter').innerHTML = 'Area is: ' + perimeterOfTriangle + ' cm'
+  document.getElementById('perimeter').innerHTML = 'Area is: ' + perimeterOfTriangle + ' cm²'
 }
